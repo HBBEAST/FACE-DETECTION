@@ -23,9 +23,24 @@ It uses OpenCV and Haar Cascade Classifier for face detection.
 5. Displays FPS
 
 ## ▶️ How to Run
-1. Install OpenCV
-2. Configure with Visual Studio
-3. Compile and run the project
+
+1. Clone the repository
+
+git clone https://github.com/HBBEAST/FACE-DETECTION.git
+
+2. Open in Visual Studio
+
+3. Make sure OpenCV is properly configured
+
+4. Build and run the project
+
+5. Press ESC to exit webcam
+
+### Requirements
+
+- Visual Studio 2019+
+- OpenCV 4.x
+- Webcam
 
 ## 📸 Output
 Faces are detected and highlighted in real-time.
